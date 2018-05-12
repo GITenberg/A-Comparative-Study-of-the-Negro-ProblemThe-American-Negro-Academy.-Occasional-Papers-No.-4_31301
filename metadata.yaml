@@ -1,0 +1,29 @@
+_repo: A-Comparative-Study-of-the-Negro-ProblemThe-American-Negro-Academy.-Occasional-Papers-No.-4_31301
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cook, Charles C.
+    alias: Cook, Charles Chauveau
+    gutenberg_agent_id: '35134'
+    url: http://www.gutenberg.org/2009/agents/35134
+description: ''
+gutenberg_issued: '2010-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31301'
+  lccn: '10007971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- Race relations'
+- !lcsh 'African Americans'
+title: 'A Comparative Study of the Negro Problem
+
+  The American Negro Academy. Occasional Papers No. 4'
+url: http://www.gutenberg.org/ebooks/31301
